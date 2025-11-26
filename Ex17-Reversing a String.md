@@ -12,7 +12,7 @@ To write a Java program that reverses an input string using a stack, without usi
 5. Pop each character from the stack and append it to a new string — this gives the reversed string.
 6. Display the reversed string.
 7. Stop the program.
-8. 
+
 ## Program:
 ```PY
 /*
